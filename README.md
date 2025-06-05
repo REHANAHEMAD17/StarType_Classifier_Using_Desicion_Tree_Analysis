@@ -1,6 +1,6 @@
 1.	Star Classification using Decision Tree
 
->> A machine learning project that classifies stars based on their physical attributes using a Decision Tree Classifier.
+> A machine learning project that classifies stars based on their physical attributes using a Decision Tree Classifier.
 
 2.	Features
 
@@ -25,7 +25,7 @@ Jupyter Notebook (optional)
 
 4.	Installation
 # Clone the repository
-git clone https://github.com/REHANAHEMAD17/star-classifier.git
+gh repo clone REHANAHEMAD17/StarType_Classifier_Using_Desicion_Tree_Analysis
 
 
 
@@ -52,10 +52,10 @@ obj_ID	alpha	delta	u	g	r	i	z	run_ID	rerun_ID	cam_col	field_ID	spec_obj_ID	class	
 
  	Contributions are welcome! Fork the repo and create a pull request with your improvements.
 
->>  License
+> License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
->> Contact
+> Contact
 Name –rehanahemad2000@example.com
 GitHub – @REHANAHEMAD17
